@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="9" time="115.46623">
+    <testcase classname="Converting E2E test case to Page Object Design Pattern" name="Logging into toolsqa and testing tab functionality" time="30.154074">
+        <system-out>
+            <![CDATA[Given user is on home page..................................................passed
+When click on tutorials button..............................................passed
+And select the programming language tab.....................................passed
+And select the language and clcik on it which should navigate to language page.passed
+And verify all links  and click on any link.................................passed
+And User should naviagte to particlar link..................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Converting E2E test case to Page Object Design Pattern" name="Testing hooks and tags" time="4.21225">
+        <system-out>
+            <![CDATA[Given Write code for  tagOne................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Converting E2E test case to Page Object Design Pattern" name="Write code for  tagTwo" time="4.519269">
+        <system-out>
+            <![CDATA[Given Write code for  tagTwo................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Converting E2E test case to Page Object Design Pattern" name="Write code for  tagThree" time="8.324423">
+        <system-out>
+            <![CDATA[Given Write code for  tagThree..............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Converting E2E test case to Page Object Design Pattern" name="Write code for  tagFour" time="4.345683">
+        <system-out>
+            <![CDATA[Given Write code for  tagFour...............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Converting E2E test case to Page Object Design Pattern" name="Write code for  tagFive" time="4.384236">
+        <system-out>
+            <![CDATA[Given Write code for  tagFive...............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Converting E2E test case to Page Object Design Pattern" name="Write code for  tagSix" time="4.497014">
+        <system-out>
+            <![CDATA[Given Write code for  tagSix................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Converting E2E test case to Page Object Design Pattern" name="Enroll Yourself" time="26.053253">
+        <system-out>
+            <![CDATA[Given user is on home page..................................................passed
+When click on Enroll yourself button........................................passed
+And Please enter firstname "shilpa".........................................passed
+And Please enter  lastname "Redddy".........................................passed
+And Please enter  emial "Shilpa.reddy@gmail.com"............................passed
+And Please enter mobile "9742349188"........................................passed
+And Please enter country "India"............................................passed
+And Please enter city "Banaglaore"..........................................passed
+And Clcik on send button....................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="Converting E2E test case to Page Object Design Pattern" name="Enroll Yourself 2" time="28.976028">
+        <system-out>
+            <![CDATA[Given user is on home page..................................................passed
+When click on Enroll yourself button........................................passed
+And Please enter firstname "dwaraka"........................................passed
+And Please enter  lastname "Redddy".........................................passed
+And Please enter  emial "dwaraka.reddy@gmail.com"...........................passed
+And Please enter mobile "9742349195"........................................passed
+And Please enter country "Aruba"............................................passed
+And Please enter city "Kurnool".............................................passed
+And Clcik on send button....................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
