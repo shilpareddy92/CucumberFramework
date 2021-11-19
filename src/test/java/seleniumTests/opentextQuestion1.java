@@ -17,6 +17,7 @@ public class opentextQuestion1 {
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 		driver.get("http://the-internet.herokuapp.com/login");
 
+
 		driver.findElement(By.id("username")).sendKeys("aaaa");
 		driver.findElement(By.xpath("//input[@name= 'password']")).sendKeys("bbbb");
 		driver.findElement(By.xpath("//i[text()= ' Login']")).click();
