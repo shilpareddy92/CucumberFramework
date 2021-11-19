@@ -15,7 +15,7 @@ public class opentextQuestion3 {
 			String[] targetted = splitted[i].split(" ");
 			for(int j=0;j<targetted.length;j++) {
 				System.out.println(targetted[0]);
-				break;
+				break;;
 			}
 		}
 	}
